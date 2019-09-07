@@ -1,5 +1,5 @@
 {
-  "name": "multiline",
+  "name": "@ryel/multiline",
   "version": "1.0.0",
   "description": "Remove leading white space from multiline strings, namely in order to keep code indented without the disadvantage of adding extra white space.",
   "main": "multiline.js",
@@ -23,5 +23,14 @@
   "devDependencies": {
     "eslint": "^6.3.0",
     "jest": "^24.9.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyelOliver/multiline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyelOliver/multiline/issues"
+  },
+  "homepage": "https://github.com/RyelOliver/multiline#readme"
 }
