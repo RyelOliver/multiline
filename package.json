@@ -1,0 +1,27 @@
+{
+  "name": "multiline",
+  "version": "1.0.0",
+  "description": "Remove leading white space from multiline strings, namely in order to keep code indented without the disadvantage of adding extra white space.",
+  "main": "multiline.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "javascript",
+    "multiline",
+    "indentation",
+    "string",
+    "tagged",
+    "template",
+    "literal",
+    "expression"
+  ],
+  "author": "Ryel Oliver <rmuchunku@gmail.com> (https://github.com/RyelOliver)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "jest": "^24.9.0"
+  }
+}
